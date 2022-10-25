@@ -1,0 +1,11 @@
+version: 1
+eventstore1: 
+  url: "http://localhost:8090/courtBooking"
+eventstore2: 
+  url: "http://localhost:8090/TennisLesson"
+events:
+  hostname: "kafka.canadacentral.cloudapp.azure.com"
+  port: 9092
+  topic: events
+
+

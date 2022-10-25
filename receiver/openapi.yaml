@@ -1,0 +1,110 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This is a Tennis Booking API for a private Vancouver tennis club that has over 30 tennis courts. Upon completion of this project, it will allow users for immediate requests on court bookings and lesson bookings.
+  version: "1.0.0"
+  title: Tennis Court Booking API
+  contact:
+    email: rlee323@my.bcit.ca
+
+tags:
+  - name: admins
+    description: Secured Admin-only calls
+  - name: developers
+    description: Operations available to regular developers
+paths:
+  /courtBooking:
+
+    post:
+      tags:
+        - tennis members
+      summary: books a tennis court
+      operationId: app.book_tennis_court
+      description: Adds a court booking to the system
+      responses:
+        '201':
+          description: court booked
+        '400':
+          description: 'invalid input, object invalid'
+        '409':
+          description: a court booking already exists
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/TennisBooking'
+        description: Tennis court to book
+        
+  /TennisLesson:
+
+
+    post:
+        tags:
+          - tennis lessons
+        summary: books a tennis lesson
+        operationId: app.book_tennis_lesson
+        description: Adds a lesson booking to the system
+        responses:
+          '201':
+            description: lesson booked
+          '400':
+            description: 'invalid input, object invalid'
+          '409':
+            description: a lesson booking already exists
+        requestBody:
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TennisLesson'
+          description: Tennis lesson to book
+
+components:
+  schemas:
+    TennisBooking:
+      type: object
+      required:
+        - memberID
+        - memberName
+        - courtNum
+        - bookDate
+      properties:
+        memberID:
+          type: integer
+          example: 62023
+        memberName:
+          type: string
+          example: Raymond Lee
+        bookDate:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+        courtNum:
+          type: integer
+          example: 1
+      
+        
+    TennisLesson:
+      type: object
+      required:
+        - memberID
+        - memberName
+        - coachName
+        - lessonDate
+        - lessonRate
+      properties:
+        memberID:
+          type: integer
+          example: 62023
+        memberName:
+          type: string
+          example: Raymond Lee
+        coachName:
+          type: string
+          example: Carl Ho
+        lessonDate:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+        lessonRate:
+          type: number
+          example: 78.97

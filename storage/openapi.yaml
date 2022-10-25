@@ -1,0 +1,109 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This is a Tennis Booking API for a private Vancouver tennis club that has over 30 tennis courts. Upon completion of this project, it will allow users for immediate requests on court bookings and lesson bookings.
+  version: "1.0.0"
+  title: Tennis Court Booking API
+  contact:
+    email: rlee323@my.bcit.ca
+
+tags:
+  - name: admins
+    description: Secured Admin-only calls
+  - name: developers
+    description: Operations available to regular developers
+paths:
+  
+     
+  /courtBookings:
+    get:
+      tags:
+        - tennis courts
+      summary: gets new tennis booking readings 
+      operationId: app.get_court_bookings
+      description: Gets tennnis court readings added after a timestamp 
+      parameters: 
+        - name: timestamp 
+          in: query
+          description: Limits the number of items on a page
+          schema: 
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001z
+      responses:
+        '200':
+          description: Successfully returned a list of tennis court booking events
+          content: 
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/TennisBookings'
+        '400':
+          description: Invalid request 
+          content:
+            application/json:
+              schema:
+                type: object 
+                properties:
+                  message:
+                    type: string
+
+
+          
+  /TennisLessons:
+    get:
+      tags:
+        - tennis lessons
+      summary: gets new tennis lesson bookings readings 
+      operationId: app.get_tennis_lessons
+      description: Gets tennnis lessons readings added after a timestamp 
+      parameters: 
+        - name: timestamp 
+          in: query
+          description: Limits the number of items on a page
+          schema: 
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001z
+      responses:
+        '200':
+          description: Successfully returned a list of tennis lesson booking events
+          content: 
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/TennisLessons'
+        '400':
+          description: Invalid request 
+          content:
+            application/json:
+              schema:
+                type: object 
+                properties:
+                  message:
+                    type: string
+
+
+components:
+  schemas:
+    TennisBookings:
+      type: object
+      required:
+        - timestamp
+      properties:
+        timestamp:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+        
+    TennisLessons:
+      type: object
+      required:
+        - timestamp
+      properties: 
+        timestamp: 
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'

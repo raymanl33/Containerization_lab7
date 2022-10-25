@@ -1,0 +1,135 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This is a Tennis Booking API for a private Vancouver tennis club that has over 30 tennis courts. Upon completion of this project, it will allow users for immediate requests on court bookings and lesson bookings.
+  version: "1.0.0"
+  title: Tennis Court Booking API
+  contact:
+    email: rlee323@my.bcit.ca
+
+tags:
+  - name: admins
+    description: Secured Admin-only calls
+  - name: developers
+    description: Operations available to regular developers
+paths:
+  
+     
+  /courtBookings:
+    get:
+      tags:
+        - tennis courts
+      summary: gets new tennis booking reading from history
+      operationId: app.get_court_bookings_reading
+      description: Gets tennis court booking readings from the event store
+      parameters: 
+        - name: index 
+          in: query
+          description: Gets the court booking at the index in the event store
+          schema: 
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a tennis court booking event 
+          content: 
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/TennisBookings'
+        '400':
+          description: Invalid request 
+          content:
+            application/json:
+              schema:
+                type: object 
+                properties:
+                  message:
+                    type: string
+
+
+          
+  /TennisLessons:
+    get:
+      tags:
+        - tennis lessons
+      summary: gets a tennis lesson booking reading from history 
+      operationId: app.get_tennis_lessons_reading
+      description: Gets tennnis lessons readings from the event store
+      parameters: 
+        - name: index 
+          in: query
+          description: Gets the tennis lessons at the index in the event store
+          schema: 
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a list of tennis lesson booking events
+          content: 
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/TennisLessons'
+        '400':
+          description: Invalid request 
+          content:
+            application/json:
+              schema:
+                type: object 
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    TennisBookings:
+      type: object
+      required:
+        - memberID
+        - memberName
+        - courtNum
+        - bookDate
+      properties:
+        memberID:
+          type: integer
+          example: 62023
+        memberName:
+          type: string
+          example: Raymond Lee
+        bookDate:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+        courtNum:
+          type: integer
+          example: 1
+      
+        
+    TennisLessons:
+      type: object
+      required:
+        - memberID
+        - memberName
+        - coachName
+        - lessonDate
+        - lessonRate
+      properties:
+        memberID:
+          type: integer
+          example: 62023
+        memberName:
+          type: string
+          example: Raymond Lee
+        coachName:
+          type: string
+          example: Carl Ho
+        lessonDate:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+        lessonRate:
+          type: number
+          example: 78.97

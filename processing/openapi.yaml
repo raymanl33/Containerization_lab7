@@ -1,0 +1,64 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This is a Tennis Booking API for a private Vancouver tennis club that has over 30 tennis courts. Upon completion of this project, it will allow users for immediate requests on court bookings and lesson bookings.
+  version: "1.0.0"
+  title: Tennis Court Booking API
+  contact:
+    email: rlee323@my.bcit.ca
+
+tags:
+  - name: admins
+    description: Secured Admin-only calls
+  - name: developers
+    description: Operations available to regular developers
+paths:
+  /stats:
+    get:
+      summary: Gets the vent stats 
+      operationId: app.get_stats
+      description: Gets the tennis court booking and lesson booking processed statistics 
+      responses: 
+        '200':
+          description: Successfuly returned a list of tennis booking events
+          content: 
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+              
+
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - num_court_bookings
+      - max_court_bookings
+      - num_lesson_bookings
+      - max_lesson_bookings
+      properties:
+        num_court_bookings:
+          type: integer
+          example: 245
+        max_court_bookings:
+          type: integer
+          example: 500
+        num_lesson_bookings:
+          type: integer
+          example: 250
+        max_lesson_bookings:
+          type: integer
+          example: 245
+      type: object
+        
+  
