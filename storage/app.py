@@ -12,7 +12,7 @@ import yaml
 import pymysql
 import logging
 import logging.config
-from dateutil import parser
+#from dateutil import parser
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread 
