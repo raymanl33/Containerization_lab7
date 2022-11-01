@@ -5,6 +5,8 @@ from pykafka import KafkaClient
 import yaml
 import logging
 import logging.config
+from flask_cors import CORS, cross_origin
+
 
 # Gloabl variables ======================
 with open('app_conf.yaml', 'r') as f:
@@ -99,6 +101,9 @@ app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml",
                  strict_validation=True,
                 validate_responses=True)
+
+CORS(app.app)
+app.app.config["CORS_HEADERS"] = "Content-Type"
 
 if __name__ == "__main__":
     app.run(port=9080)

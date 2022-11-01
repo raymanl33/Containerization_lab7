@@ -1,5 +1,6 @@
 import connexion 
 from connexion import NoContent 
+import requests
 import json
 import datetime
 import os
@@ -14,6 +15,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from os.path import exists
 import ast
 from stats import Stats
+from flask_cors import CORS, cross_origin
 
 
 # Gloabl variables ======================
@@ -164,6 +166,9 @@ app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml",
                  strict_validation=True,
                 validate_responses=True)
+
+CORS(app.app)
+app.app.config["CORS_HEADERS"] = "Content-Type"
 
 if __name__ == "__main__":
   # run our standalone gevent server
