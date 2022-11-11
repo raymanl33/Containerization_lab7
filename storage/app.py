@@ -16,6 +16,7 @@ import logging.config
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread 
+from sqlalchemy import and_
 
 with open('app_conf.yml', 'r') as f:
   app_config = yaml.safe_load(f.read())
@@ -42,15 +43,18 @@ Base.metadata.create_all(DB_ENGINE)
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
 logger.info(f"Connecting to DB. Hostname:{hostname}, Port:{port}")
-def get_court_bookings(timestamp):
+def get_court_bookings(timestamp, end_timestamp):
   """ Gets new tennis court bookings after the timestamp """
 
   session = DB_SESSION()
   print(timestamp)
   timestamp_datetime = datetime.datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
 
-  
-  readings = session.query(BookTennisCourt).filter(BookTennisCourt.date_created >= timestamp_datetime)
+  end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
+
+  readings = session.query(BookTennisCourt).filter(
+    and_(BookTennisCourt.date_created >= timestamp_datetime,
+    BookTennisCourt.date_created < end_timestamp_datetime))
   
   results_list = []
 
@@ -64,13 +68,17 @@ def get_court_bookings(timestamp):
   return results_list, 200
 
 
-def get_tennis_lessons(timestamp):
+def get_tennis_lessons(timestamp, end_timestamp):
   """ Gets new tennis court bookings after the timestamp """
 
   session = DB_SESSION()
   print(timestamp)
   timestamp_datetime = datetime.datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
-  readings = session.query(BookTennisLesson).filter(BookTennisLesson.date_created >= timestamp_datetime)
+  end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
+
+  readings = session.query(BookTennisLesson).filter(
+    and_(BookTennisLesson.date_created >= timestamp_datetime,
+        BookTennisLesson.date_created < end_timestamp_datetime))
   
   results_list = []
 
@@ -85,57 +93,6 @@ def get_tennis_lessons(timestamp):
   return results_list, 200
 
 
-# def book_tennis_court(body):
-#     """ Recevies a tennis booking request """
-    
-#     session = DB_SESSION()
-
-#     bc = BookTennisCourt(body['memberID'],
-#                        body['memberName'],
-#                        body['courtNum'],
-#                        body['bookDate'],
-#                        body['bookDate'],
-#                        body['trace_id'])
-
-#     session.add(bc)
-
-#     session.commit()
-#     session.close()
-#     trace_id = body['trace_id']
-#     logger.info(f'Stored event book tennis event request with a trace id of {trace_id}')
-#     return NoContent, 201
-
-
-
-# def book_tennis_lesson(body):
-#     """ Receives a tennis booking lesson request """
-#     session = DB_SESSION()
-
-#     btl = BookTennisLesson(body['memberID'],
-#                        body['lessonDate'],
-#                        body['memberName'],
-#                        body['coachName'],
-#                        body['lessonRate'],
-#                        body['lessonDate'],
-#                        body['trace_id'])
-                    
-#     session.add(btl)
-
-#     session.commit()
-#     session.close()
-
-#     trace_id = body['trace_id']
-#     logger.info(f'Stored event book tennis event request with a trace id of {trace_id}')
-#     return NoContent, 201
-  
-
-
-# app = connexion.FlaskApp(__name__, specification_dir='')
-# app.add_api("openapi.yaml",
-#                  strict_validation=True,
-#                 validate_responses=True)
-
-# database = connexion.
 
 def process_messages():
   """ Process event messages """

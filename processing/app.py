@@ -98,12 +98,13 @@ def pupulate_stats():
    
     # timestamp_datetime = datetime.datetime.strptime(results[0].last_updated, '%Y-%m-%dT%H:%M:%S')
     # print(timestamp_datetime)
-    current_datetime = results[0].last_updated.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
-    # current_datetime_formatted = current_datetime.replace(":", "%3A")
+    last_updated = results[0].last_updated.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
+    current_datetime = results[0].current.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
+
    
     # Query the two GET endpoints from your Data Store Serviec (Using requests.get) 
-    tennis_lessons_response = requests.get(f"{url}/TennisLessons?timestamp={current_datetime}")
-    tennis_courts_response = requests.get(f"{url}/courtBookings?timestamp={current_datetime}")
+    tennis_lessons_response = requests.get(f"{url}/TennisLessons?timestamp={last_updated}&end_timestamp={current_datetime}")
+    tennis_courts_response = requests.get(f"{url}/courtBookings?timestamp={last_updated}&end_timestamp={current_datetime}")
 
     
 

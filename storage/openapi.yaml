@@ -23,7 +23,16 @@ paths:
       operationId: app.get_court_bookings
       description: Gets tennnis court readings added after a timestamp 
       parameters: 
-        - name: timestamp 
+         
+      - name: timestamp 
+        in: query
+        description: Limits the number of items on a page
+        schema: 
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001z
+
+        - name: end_timestamp 
           in: query
           description: Limits the number of items on a page
           schema: 
@@ -66,6 +75,15 @@ paths:
             type: string
             format: date-time
             example: 2016-08-29T09:12:33.001z
+         
+        - name: end_timestamp 
+          in: query
+          description: Limits the number of items on a page
+          schema: 
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001z
+            
       responses:
         '200':
           description: Successfully returned a list of tennis lesson booking events

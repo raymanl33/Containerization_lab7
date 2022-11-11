@@ -11,7 +11,8 @@ c.execute('''
         max_court_bookings INTEGER NOT NULL,
         num_lesson_bookings INTEGER NOT NULL,
         max_lesson_bookings INTEGER NOT NULL,
-        last_updated VARCHR(100) NOT NULL)
+        last_updated VARCHAR(100) NOT NULL),
+        current VARCHAR (100) NOT NULL
         ''' )
 
 conn.commit()
