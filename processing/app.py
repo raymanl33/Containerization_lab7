@@ -74,7 +74,7 @@ def pupulate_stats():
     
     
 
-    bc = Stats(0,100,0,100,datetime.datetime.now(),datetime.datetime.now())
+    bc = Stats(0,100,0,100,datetime.datetime.now())
 
     session.add(bc)
 
@@ -95,12 +95,12 @@ def pupulate_stats():
     # timestamp_datetime = datetime.datetime.strptime(results[0].last_updated, '%Y-%m-%dT%H:%M:%S')
     # print(timestamp_datetime)
     last_updated = results[0].last_updated.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
-    current_datetime = results[0].current_timestamp.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
+    current_timestamp = datetime.datetime.now()
 
    
     # Query the two GET endpoints from your Data Store Serviec (Using requests.get) 
-    tennis_lessons_response = requests.get(f"{url}/TennisLessons?timestamp={last_updated}&end_timestamp={current_datetime}")
-    tennis_courts_response = requests.get(f"{url}/courtBookings?timestamp={last_updated}&end_timestamp={current_datetime}")
+    tennis_lessons_response = requests.get(f"{url}/TennisLessons?timestamp={last_updated}&end_timestamp={current_timestamp}")
+    tennis_courts_response = requests.get(f"{url}/courtBookings?timestamp={last_updated}&end_timestamp={current_timestamp}")
 
     
 
@@ -137,8 +137,8 @@ def pupulate_stats():
               100,
               stats['num_lesson_bookings'],
               100,
-              last_updated,
-              datetime.datetime.now()
+              current_timestamp,
+             
               )
 
     logger.debug(f"Updated statitics values num_courts_bookings: {stats['num_court_bookings']}, max_num_court_bookings: {100}, num_lessons_bookings: {stats['num_lesson_bookings']}, max_lessons_bookings: {100}")
