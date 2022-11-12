@@ -110,7 +110,59 @@ def process_messages():
       logger.info(f"Trying to connect to Kafka\n  Current retry count: {current_count}")
       client = KafkaClient(hosts=hostname)
       topic = client.topics[str.encode(app_config["events"]["topic"])]
+      consumer = topic.get_simple_consumer(consumer_group=b'event_group', reset_offset_on_start=False, auto_offset_reset=OffsetType.LATEST)
+
+      # This is blocking - it will wait for a new message
+      for msg in consumer: 
+        msg_str = msg.value.decode('utf-8')
+        msg = json.loads(msg_str)
+        logger.info("Message: %s" % msg)
+
+        payload = msg["payload"]
+
+        if msg["type"] == "book_tennis_lesson": # Change this to your event type 
+          # Store the event1 (i.e., the payload) to the DB 
+          session = DB_SESSION()
+          
+          btl = BookTennisLesson(msg['payload']['memberID'],
+                            msg['payload']['lessonDate'],
+                            msg['payload']['memberName'],
+                            msg['payload']['coachName'],
+                            msg['payload']['lessonRate'],
+                            msg['payload']['lessonDate'],
+                            msg['payload']['trace_id'])
+                          
+          session.add(btl)
+
+          session.commit()
+          session.close()
+
+          trace_id = msg['payload']['trace_id']
+          logger.info(f'Stored event book tennis event request with a trace id of {trace_id}')
+          print('event1') 
+        elif msg["type"] == "book_tennis_court":
+          # Store the event2 (i.e., the payload) to the DB
       
+          session = DB_SESSION()
+
+          bc = BookTennisCourt(msg['payload']['memberID'],
+                            msg['payload']['memberName'],
+                            msg['payload']['courtNum'],
+                            msg['payload']['bookDate'],
+                            msg['payload']['bookDate'],
+                            msg['payload']['trace_id'])
+
+          session.add(bc)
+
+          session.commit()
+          session.close()
+          trace_id = msg['payload']['trace_id']
+          logger.info(f'Stored event book tennis event request with a trace id of {trace_id}')
+
+        # Commit the new message as being read
+        consumer.commit_offsets()
+
+          
     except Exception as e:
    
       logger.error(f"Connection to Kafka Failed {e}")
@@ -119,58 +171,7 @@ def process_messages():
   # Create a consume on a cosumer group, that only reads new messages 
   # (uncommitted messages) when  the service re-starts (i.e., it doesnt 
   # read all the old messages from the history in the message queue).
-  consumer = topic.get_simple_consumer(consumer_group=b'event_group', reset_offset_on_start=False, auto_offset_reset=OffsetType.LATEST)
-
-  # This is blocking - it will wait for a new message
-  for msg in consumer: 
-    msg_str = msg.value.decode('utf-8')
-    msg = json.loads(msg_str)
-    logger.info("Message: %s" % msg)
-
-    payload = msg["payload"]
-
-    if msg["type"] == "book_tennis_lesson": # Change this to your event type 
-      # Store the event1 (i.e., the payload) to the DB 
-      session = DB_SESSION()
-      
-      btl = BookTennisLesson(msg['payload']['memberID'],
-                        msg['payload']['lessonDate'],
-                        msg['payload']['memberName'],
-                        msg['payload']['coachName'],
-                        msg['payload']['lessonRate'],
-                        msg['payload']['lessonDate'],
-                        msg['payload']['trace_id'])
-                      
-      session.add(btl)
-
-      session.commit()
-      session.close()
-
-      trace_id = msg['payload']['trace_id']
-      logger.info(f'Stored event book tennis event request with a trace id of {trace_id}')
-      print('event1') 
-    elif msg["type"] == "book_tennis_court":
-      # Store the event2 (i.e., the payload) to the DB
-   
-      session = DB_SESSION()
-
-      bc = BookTennisCourt(msg['payload']['memberID'],
-                        msg['payload']['memberName'],
-                        msg['payload']['courtNum'],
-                        msg['payload']['bookDate'],
-                        msg['payload']['bookDate'],
-                        msg['payload']['trace_id'])
-
-      session.add(bc)
-
-      session.commit()
-      session.close()
-      trace_id = msg['payload']['trace_id']
-      logger.info(f'Stored event book tennis event request with a trace id of {trace_id}')
-
-    # Commit the new message as being read
-    consumer.commit_offsets()
-
+  
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml",
