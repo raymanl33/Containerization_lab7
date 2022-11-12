@@ -95,7 +95,7 @@ def pupulate_stats():
     # timestamp_datetime = datetime.datetime.strptime(results[0].last_updated, '%Y-%m-%dT%H:%M:%S')
     # print(timestamp_datetime)
     last_updated = results[0].last_updated.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
-    current_datetime = results[0].current_datetime.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
+    current_datetime = results[0].current_timestamp.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
 
    
     # Query the two GET endpoints from your Data Store Serviec (Using requests.get) 
