@@ -112,8 +112,8 @@ def process_messages():
       topic = client.topics[str.encode(app_config["events"]["topic"])]
       
     except Exception as e:
-      print(e)
-      logger.error("Connection to Kafka Failed ")
+   
+      logger.error(f"Connection to Kafka Failed {e}")
       time.sleep(sleep_time)
       current_count += 1
   # Create a consume on a cosumer group, that only reads new messages 
