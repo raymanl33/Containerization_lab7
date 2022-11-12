@@ -138,7 +138,7 @@ def pupulate_stats():
               stats['num_lesson_bookings'],
               100,
               last_updated,
-              current_datetime
+              datetime.datetime.now()
               )
 
     logger.debug(f"Updated statitics values num_courts_bookings: {stats['num_court_bookings']}, max_num_court_bookings: {100}, num_lessons_bookings: {stats['num_lesson_bookings']}, max_lessons_bookings: {100}")
