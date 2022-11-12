@@ -95,7 +95,7 @@ def pupulate_stats():
     # timestamp_datetime = datetime.datetime.strptime(results[0].last_updated, '%Y-%m-%dT%H:%M:%S')
     # print(timestamp_datetime)
     last_updated = results[0].last_updated.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
-    current_timestamp = datetime.datetime.now()
+    current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
 
    
     # Query the two GET endpoints from your Data Store Serviec (Using requests.get) 
@@ -137,7 +137,7 @@ def pupulate_stats():
               100,
               stats['num_lesson_bookings'],
               100,
-              current_timestamp,
+              current_timestamp
              
               )
 
