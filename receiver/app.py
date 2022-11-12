@@ -32,7 +32,7 @@ while current_count < maximum_retries:
       logger.info(f"Trying to connect to Kafka\n  Current retry count: {current_count}")
       client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
       topic = client.topics[str.encode(app_config['events']['topic'])]
-
+      logger.info(topic)
       def book_tennis_court(body):
 
         """ Recevies a tennis booking request """
