@@ -47,10 +47,10 @@ def get_court_bookings(timestamp, end_timestamp):
   """ Gets new tennis court bookings after the timestamp """
 
   session = DB_SESSION()
-  print(timestamp)
+  
   timestamp_datetime = datetime.datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
 
-  end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
+  end_timestamp_datetime = datetime.datetime.strptime(end_timestamp,'%Y-%m-%dT%H:%M:%S.%fZ')
 
   readings = session.query(BookTennisCourt).filter(
     and_(BookTennisCourt.date_created >= timestamp_datetime,

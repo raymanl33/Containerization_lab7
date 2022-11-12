@@ -132,7 +132,7 @@ def pupulate_stats():
     
 
     session = DB_SESSION()
-
+    current_timestamp = datetime.datetime.strptime(end_timestamp,'%Y-%m-%dT%H:%M:%S.%fZ')
     bc = Stats(stats['num_court_bookings'],
               100,
               stats['num_lesson_bookings'],
