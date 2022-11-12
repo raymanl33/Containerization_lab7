@@ -74,12 +74,7 @@ def pupulate_stats():
     
     
 
-    bc = Stats(0,
-               100,
-               0,
-               100,
-                datetime.datetime.now(),
-                datetime.datetime.now())
+    bc = Stats(0,100,0,100,datetime.datetime.now())
 
     session.add(bc)
 
@@ -142,7 +137,7 @@ def pupulate_stats():
               100,
               stats['num_lesson_bookings'],
               100,
-              last_updated,
+    
               current_datetime
               )
 
