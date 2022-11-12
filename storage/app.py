@@ -2,6 +2,7 @@ import connexion
 from connexion import NoContent 
 import json
 import datetime
+import time
 import os
 from base import Base
 from sqlalchemy import create_engine
@@ -72,7 +73,7 @@ def get_tennis_lessons(timestamp, end_timestamp):
   """ Gets new tennis court bookings after the timestamp """
 
   session = DB_SESSION()
-  print(timestamp)
+  # print(timestamp)
   timestamp_datetime = datetime.datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
   end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
 
@@ -99,9 +100,19 @@ def process_messages():
 
   hostname = "%s:%d" % (app_config["events"]["hostname"],
                         app_config["events"]["port"])
+  maximum_retries = app_config['exception']['retry_limit']
+  current_count = 0
+  sleep_time = app_config['exception']['sleep']
 
-  client = KafkaClient(hosts=hostname)
-  topic = client.topics[str.encode(app_config["events"]["topic"])]
+  while current_count < maximum_retries:
+    logger.info(f"Trying to connect to Kafka\n  Current retry count: {current_count}")
+    try:
+      client = KafkaClient(hosts=hostname)
+      topic = client.topics[str.encode(app_config["events"]["topic"])]
+    except Exception as e:
+      logger.error("Connection to Kafka Failed ")
+      time.sleep(sleep_time)
+      current_count += 1
   # Create a consume on a cosumer group, that only reads new messages 
   # (uncommitted messages) when  the service re-starts (i.e., it doesnt 
   # read all the old messages from the history in the message queue).
