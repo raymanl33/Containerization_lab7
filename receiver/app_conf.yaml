@@ -1,4 +1,7 @@
 version: 1
+exception:
+  retry_limit: 10
+  sleep: 3
 eventstore1: 
   url: "http://localhost:8090/courtBooking"
 eventstore2: 
