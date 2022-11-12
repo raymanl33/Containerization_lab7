@@ -51,7 +51,7 @@ export default function AppStats() {
 					
 					</tbody>
                 </table>
-                <h3>Last Updated: {stats['last_updated']}</h3>
+                <h3>Last Updated: {stats['current_timestamp']}</h3>
 
             </div>
         )
