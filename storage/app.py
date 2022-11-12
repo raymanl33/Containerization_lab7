@@ -104,16 +104,16 @@ def process_messages():
   current_count = 0
   sleep_time = app_config['exception']['sleep']
 
-  while current_count < maximum_retries:
+  # while current_count < maximum_retries:
     
-    try:
-      logger.info(f"Trying to connect to Kafka\n  Current retry count: {current_count}")
-      client = KafkaClient(hosts=hostname)
-      topic = client.topics[str.encode(app_config["events"]["topic"])]
-    except:
-      logger.error("Connection to Kafka Failed ")
-      time.sleep(sleep_time)
-      current_count += 1
+    # try:
+  logger.info(f"Trying to connect to Kafka\n  Current retry count: {current_count}")
+  client = KafkaClient(hosts=hostname)
+  topic = client.topics[str.encode(app_config["events"]["topic"])]
+    # except:
+    #   logger.error("Connection to Kafka Failed ")
+    #   time.sleep(sleep_time)
+    #   current_count += 1
   # Create a consume on a cosumer group, that only reads new messages 
   # (uncommitted messages) when  the service re-starts (i.e., it doesnt 
   # read all the old messages from the history in the message queue).
