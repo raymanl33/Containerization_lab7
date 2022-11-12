@@ -15,7 +15,7 @@ class Stats(Base):
 
     def __init__(self, num_court_bookings, max_court_bookings,
         num_lesson_bookings, max_lesson_bookings,
-        last_updated, current):
+        last_updated):
         """ Initializes a processing statistics objet """
         self.num_court_bookings = num_court_bookings
         self.max_court_bookings = max_court_bookings
