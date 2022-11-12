@@ -10,17 +10,19 @@ class Stats(Base):
     max_court_bookings = Column(Integer, nullable=False)
     num_lesson_bookings = Column(Integer, nullable=False)
     max_lesson_bookings = Column(Integer, nullable=False)
+    last_updated = Column(DateTime, nullable=False)
     current_timestamp = Column(DateTime, nullable=False)
    
 
     def __init__(self, num_court_bookings, max_court_bookings,
         num_lesson_bookings, max_lesson_bookings,
-        current_timestamp):
+        last_updated, current_timestamp):
         """ Initializes a processing statistics objet """
         self.num_court_bookings = num_court_bookings
         self.max_court_bookings = max_court_bookings
         self.num_lesson_bookings = num_lesson_bookings
         self.max_lesson_bookings = max_lesson_bookings
+        self.last_updated = last_updated
         self.current_timestamp = current_timestamp
   
     def to_dict(self):
@@ -30,6 +32,7 @@ class Stats(Base):
         dict['max_court_bookings'] = self.max_court_bookings
         dict['num_lesson_bookings'] = self.num_lesson_bookings
         dict['max_lesson_bookings'] = self.max_lesson_bookings
+        dict['last_updated'] = self.last_updated.strftime("%Y-%m-%dT%H:%M:%S")
         dict['current_timestamp'] = self.last_updated.strftime("%Y-%m-%dT%H:%M:%S")
    
         
