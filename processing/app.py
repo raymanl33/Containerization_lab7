@@ -42,9 +42,7 @@ logger.info("Log Conf File: %s" % log_conf_file)
 
 sqlite_file = app_config['datastore']['filename']
 
-# Check if sqlite file exists
-if os.path.isfile(sqlite_file) == False:
-  create_database(sqlite_file)
+
 
 def create_database(sqlite_file):
   conn = sqlite3.connect(sqlite_file)
@@ -64,6 +62,11 @@ def create_database(sqlite_file):
 
   conn.commit()
   conn.close()
+  
+# Check if sqlite file exists
+if os.path.isfile(sqlite_file) == False:
+  create_database(sqlite_file)
+
 
 
 
