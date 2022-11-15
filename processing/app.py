@@ -40,6 +40,34 @@ logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File: %s" % log_conf_file)
 
 sqlite_file = app_config['datastore']['filename']
+
+# Check if sqlite file exists
+if not os.path.isfile(sqlite_file):
+  create_engine(sqlite_file)
+
+def create_database(sqlite_file):
+  import sqlite3
+
+  conn = sqlite3.connect('data.sqlite')
+
+
+  c = conn.cursor()
+  c.execute('''
+          CREATE TABLE stats
+          (id INTEGER PRIMARY KEY ASC,
+          num_court_bookings INTEGER NOT NULL,
+          max_court_bookings INTEGER NOT NULL,
+          num_lesson_bookings INTEGER NOT NULL,
+          max_lesson_bookings INTEGER NOT NULL,
+          last_updated VARCHAR(100) NOT NULL),
+          current VARCHAR (100) NOT NULL
+          ''' )
+
+  conn.commit()
+  conn.close()
+
+
+
 DB_ENGINE = create_engine(f"sqlite:///{sqlite_file}")
 Base.metadata.bind = DB_ENGINE
 Base.metadata.create_all(DB_ENGINE)
