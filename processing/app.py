@@ -44,12 +44,10 @@ sqlite_file = app_config['datastore']['filename']
 
 # Check if sqlite file exists
 if os.path.isfile(sqlite_file) == False:
-  create_engine(sqlite_file)
+  create_database(sqlite_file)
 
 def create_database(sqlite_file):
-  
-
-  conn = sqlite3.connect('data.sqlite')
+  conn = sqlite3.connect(sqlite_file)
 
 
   c = conn.cursor()
