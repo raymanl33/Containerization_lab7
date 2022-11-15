@@ -8,6 +8,7 @@ import yaml
 import logging
 import logging.config
 import uuid
+import os
 from base import Base
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker

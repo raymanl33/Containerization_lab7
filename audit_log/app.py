@@ -1,4 +1,5 @@
 import connexion 
+import os
 from connexion import NoContent 
 import json
 from pykafka import KafkaClient
