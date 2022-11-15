@@ -17,6 +17,7 @@ from os.path import exists
 import ast
 from stats import Stats
 from flask_cors import CORS, cross_origin
+import sqlite3
 
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
   print("In Test Environment")
@@ -42,11 +43,11 @@ logger.info("Log Conf File: %s" % log_conf_file)
 sqlite_file = app_config['datastore']['filename']
 
 # Check if sqlite file exists
-if not os.path.isfile(sqlite_file):
+if os.path.isfile(sqlite_file) == False:
   create_engine(sqlite_file)
 
 def create_database(sqlite_file):
-  import sqlite3
+  
 
   conn = sqlite3.connect('data.sqlite')
 
