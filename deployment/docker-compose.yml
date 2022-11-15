@@ -19,6 +19,7 @@ services:
         - "kafka"
         volumes:
           - /home/azureuser/config/receiver:/config
+          - /homoe/azureuser/logs:/logs
 
       storage:
         environment:
@@ -31,6 +32,7 @@ services:
         - "db"
         volumes:
           - /home/azureuser/config/storage:/config
+          - /homoe/azureuser/logs:/logs
 
 
       processing:
@@ -38,6 +40,8 @@ services:
           - TARGET_ENV=test
         volumes:
           - /home/azureuser/config/processing:/config
+          - /homoe/azureuser/logs:/logs
+
         image: processing
         ports:
         - "8100:8100"
@@ -51,6 +55,8 @@ services:
           - TARGET_ENV=test
         volumes:
           - /home/azureuser/config/audit_log:/config
+          - /homoe/azureuser/logs:/logs
+
         image: audit_log
         ports:
         - "9080:9080"
