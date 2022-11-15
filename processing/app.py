@@ -17,16 +17,26 @@ import ast
 from stats import Stats
 from flask_cors import CORS, cross_origin
 
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+  print("In Test Environment")
+  app_conf_file = "/config/app_conf.yaml"
+  log_conf_file = "/config/log_conf.yaml"
+else:
+  print("In Dev Environment")
+  app_conf_file = "app_conf.yaml"
+  log_conf_file = "log_conf.yaml"
 
 # Gloabl variables ======================
-with open('app_conf.yaml', 'r') as f:
+with open(app_conf_file, 'r') as f:
   app_config = yaml.safe_load(f.read())
 
-with open('log_conf.yaml', 'r') as f:
+with open(log_conf_file, 'r') as f:
   log_config = yaml.safe_load(f.read())
   logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
 
 sqlite_file = app_config['datastore']['filename']
 DB_ENGINE = create_engine(f"sqlite:///{sqlite_file}")
