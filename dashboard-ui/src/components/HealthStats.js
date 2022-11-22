@@ -38,16 +38,20 @@ export default function HealthStats() {
 							<th>Health Check</th>
 						</tr>
 						<tr>
-							<td>Audit:</td>
-							<td>Processing</td>
-							<td>Receiver</td>
-							<td>Storage</td>
+							<td>Audit</td>
+                            <td>{stats['audit']}</td> 
 						</tr>
                         <tr>
-                            <td>{stats['audit']}</td> 
-                            <td>{stats['processing']}</td>
+                            <td>Processing</td>
+                            <td>{stats['processing']}</td>             
+                        </tr>
+                        <tr>
+                            <td>Receiver</td>
                             <td>{stats['receiver']}</td>
-                            <td>{stats['storage']}</td>
+                        </tr>
+                        <tr>
+                        <td>Storage</td>
+                        <td>{stats['storage']}</td>
                         </tr>
 
 					</tbody>
