@@ -40,23 +40,23 @@ def get_health_stats():
     # health_check_audit = requests.get(f"http://kafka.canadacentral.cloudapp.azure.com:9080/health")
     logger.info("Retrieving health stats for receiver, storage, processing and audit services")
     try:
-        health_check_storage = requests.get(app_config['datastore']['storage']['url'])
+        health_check_storage = requests.get(app_config['datastore']['storage']['url'], timeout=5)
         health['storage'] = 'Running'
     except:
         health['storage'] = 'Down'
 
     try:
-        health_check_processing = requests.get(app_config['datastore']['processing']['url'])
+        health_check_processing = requests.get(app_config['datastore']['processing']['url'],  timeout=5)
         health['processing'] = 'Running'
     except:
         health['processing'] = 'Down'
     try:
-        health_check_audit = requests.get(app_config['datastore']['audit']['url'])
+        health_check_audit = requests.get(app_config['datastore']['audit']['url'],  timeout=5)
         health['audit'] = 'Running'
     except:
         health['audit'] = 'Down'
     try: 
-        health_check_receiver = requests.get(app_config['datastore']['receiver']['url'])
+        health_check_receiver = requests.get(app_config['datastore']['receiver']['url'],  timeout=5)
         health['receiver'] = 'Running'
     except:
         health['receiver'] = 'Down'
