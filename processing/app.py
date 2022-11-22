@@ -42,7 +42,9 @@ logger.info("Log Conf File: %s" % log_conf_file)
 
 sqlite_file = app_config['datastore']['filename']
 
-
+def health():
+  """ get the status of the  """
+  return 200
 
 def create_database(sqlite_file):
   conn = sqlite3.connect(sqlite_file)

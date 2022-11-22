@@ -52,6 +52,10 @@ while current_count < maximum_retries:
     time.sleep(sleep_time)
     current_count += 1
 
+def health():
+  """ get the status of the  """
+  return 200
+
 def book_tennis_court(body):
 
   """ Recevies a tennis booking request """

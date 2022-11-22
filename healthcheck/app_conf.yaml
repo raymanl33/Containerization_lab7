@@ -1,0 +1,12 @@
+exception:
+  sleep: 5
+datastore:
+  storage:
+    url: http://kafka.canadacentral.cloudapp.azure.com:8090/health
+  receiver:
+    url: http://kafka.canadacentral.cloudapp.azure.com:8080/health
+  processing:
+    url: http://kafka.canadacentral.cloudapp.azure.com:8100/health
+  audit:
+    url: http://kafka.canadacentral.cloudapp.azure.com:9080/health
+

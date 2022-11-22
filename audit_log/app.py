@@ -30,6 +30,11 @@ logger = logging.getLogger('basicLogger')
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File: %s" % log_conf_file)
 
+def health():
+  """ get the status of the  """
+  return 200
+
+
 def get_court_bookings_reading(index):
     """ Get Tennis court booking in History """
     hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])

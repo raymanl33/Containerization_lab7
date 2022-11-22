@@ -1,0 +1,535 @@
+2022-11-21 17:35:22,353 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:35:22,353 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:36:26,638 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:36:26,638 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:36:51,140 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:36:51,141 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:38:29,662 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:38:29,663 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:38:30,797 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 17:38:30,850 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:38:30,850 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:38:31,953 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 17:38:32,000 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-21 17:43:12,076 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:43:12,077 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:43:13,216 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 17:43:13,267 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:43:13,267 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:43:14,368 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 17:43:14,415 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-21 17:45:09,793 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:45:09,793 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:45:10,943 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 17:45:10,998 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:45:10,998 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:45:12,098 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 17:45:12,147 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-21 17:45:38,507 - basicLogger - INFO - Query for tennis court bookings after 2016-08-29 09:12:33.001000 return 0 results
+2022-11-21 17:46:36,893 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:46:36,893 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:46:38,041 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 17:46:38,110 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 17:46:38,111 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 17:46:39,209 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 17:46:39,257 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-21 18:17:45,076 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 18:17:45,076 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 18:17:46,227 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 18:19:00,007 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 18:19:00,008 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 18:19:01,137 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 18:19:01,190 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 18:19:01,190 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 18:19:02,329 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 18:19:02,377 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-21 18:30:42,742 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 18:30:42,743 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 18:30:43,879 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 18:30:43,988 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-21 18:30:43,988 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-21 18:30:45,057 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-21 18:30:45,110 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-21 18:38:39,105 - basicLogger - ERROR - Connection to Kafka Failed Unable to connect to a broker to fetch metadata. See logs.
+2022-11-22 09:16:05,371 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-22 09:16:05,371 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:16:06,529 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-22 09:16:06,581 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-22 09:16:06,581 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:16:07,645 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-22 09:16:07,694 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-22 09:16:17,752 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:12.615000 return 0 results
+2022-11-22 09:16:17,871 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:12.615000 return 0 results
+2022-11-22 09:16:22,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:17.618000 return 0 results
+2022-11-22 09:16:22,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:17.618000 return 0 results
+2022-11-22 09:16:27,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:22.614000 return 0 results
+2022-11-22 09:16:27,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:22.614000 return 0 results
+2022-11-22 09:16:32,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:27.615000 return 0 results
+2022-11-22 09:16:32,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:27.615000 return 0 results
+2022-11-22 09:16:37,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:32.614000 return 0 results
+2022-11-22 09:16:37,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:32.614000 return 0 results
+2022-11-22 09:16:42,764 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:37.613000 return 0 results
+2022-11-22 09:16:42,914 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:37.613000 return 0 results
+2022-11-22 09:16:47,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:42.613000 return 0 results
+2022-11-22 09:16:47,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:42.613000 return 0 results
+2022-11-22 09:16:52,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:47.614000 return 0 results
+2022-11-22 09:16:52,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:47.614000 return 0 results
+2022-11-22 09:16:57,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:52.613000 return 0 results
+2022-11-22 09:16:57,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:52.613000 return 0 results
+2022-11-22 09:17:02,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:16:57.616000 return 0 results
+2022-11-22 09:17:02,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:16:57.616000 return 0 results
+2022-11-22 09:17:07,742 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:02.613000 return 0 results
+2022-11-22 09:17:07,864 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:02.613000 return 0 results
+2022-11-22 09:17:12,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:07.613000 return 0 results
+2022-11-22 09:17:12,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:07.613000 return 0 results
+2022-11-22 09:17:17,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:12.615000 return 0 results
+2022-11-22 09:17:17,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:12.615000 return 0 results
+2022-11-22 09:17:22,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:17.615000 return 0 results
+2022-11-22 09:17:22,843 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:17.615000 return 0 results
+2022-11-22 09:17:27,741 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:22.615000 return 0 results
+2022-11-22 09:17:27,871 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:22.615000 return 0 results
+2022-11-22 09:17:32,737 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:27.613000 return 0 results
+2022-11-22 09:17:32,855 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:27.613000 return 0 results
+2022-11-22 09:17:37,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:32.613000 return 0 results
+2022-11-22 09:17:37,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:32.613000 return 0 results
+2022-11-22 09:17:42,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:37.614000 return 0 results
+2022-11-22 09:17:42,843 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:37.614000 return 0 results
+2022-11-22 09:17:47,751 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:42.613000 return 0 results
+2022-11-22 09:17:47,875 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:42.613000 return 0 results
+2022-11-22 09:17:52,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:47.613000 return 0 results
+2022-11-22 09:17:52,852 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:47.613000 return 0 results
+2022-11-22 09:17:57,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:52.613000 return 0 results
+2022-11-22 09:17:57,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:52.613000 return 0 results
+2022-11-22 09:18:02,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:17:57.616000 return 0 results
+2022-11-22 09:18:02,843 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:17:57.616000 return 0 results
+2022-11-22 09:18:07,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:02.613000 return 0 results
+2022-11-22 09:18:07,855 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:02.613000 return 0 results
+2022-11-22 09:18:12,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:07.615000 return 0 results
+2022-11-22 09:18:12,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:07.615000 return 0 results
+2022-11-22 09:18:17,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:12.613000 return 0 results
+2022-11-22 09:18:17,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:12.613000 return 0 results
+2022-11-22 09:18:22,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:17.614000 return 0 results
+2022-11-22 09:18:22,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:17.614000 return 0 results
+2022-11-22 09:18:27,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:22.614000 return 0 results
+2022-11-22 09:18:27,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:22.614000 return 0 results
+2022-11-22 09:18:32,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:27.613000 return 0 results
+2022-11-22 09:18:32,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:27.613000 return 0 results
+2022-11-22 09:18:37,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:32.615000 return 0 results
+2022-11-22 09:18:37,852 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:32.615000 return 0 results
+2022-11-22 09:18:42,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:37.615000 return 0 results
+2022-11-22 09:18:42,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:37.615000 return 0 results
+2022-11-22 09:18:47,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:42.614000 return 0 results
+2022-11-22 09:18:47,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:42.614000 return 0 results
+2022-11-22 09:18:52,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:47.615000 return 0 results
+2022-11-22 09:18:52,843 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:47.615000 return 0 results
+2022-11-22 09:18:57,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:52.613000 return 0 results
+2022-11-22 09:18:57,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:52.613000 return 0 results
+2022-11-22 09:19:02,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:18:57.613000 return 0 results
+2022-11-22 09:19:02,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:18:57.613000 return 0 results
+2022-11-22 09:19:07,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:02.615000 return 0 results
+2022-11-22 09:19:07,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:02.615000 return 0 results
+2022-11-22 09:19:12,739 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:07.613000 return 0 results
+2022-11-22 09:19:12,859 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:07.613000 return 0 results
+2022-11-22 09:19:17,725 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:12.615000 return 0 results
+2022-11-22 09:19:17,842 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:12.615000 return 0 results
+2022-11-22 09:19:22,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:17.611000 return 0 results
+2022-11-22 09:19:22,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:17.611000 return 0 results
+2022-11-22 09:19:27,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:22.612000 return 0 results
+2022-11-22 09:19:27,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:22.612000 return 0 results
+2022-11-22 09:19:32,732 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:27.615000 return 0 results
+2022-11-22 09:19:32,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:27.615000 return 0 results
+2022-11-22 09:19:37,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:32.614000 return 0 results
+2022-11-22 09:19:37,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:32.614000 return 0 results
+2022-11-22 09:19:42,741 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:37.614000 return 0 results
+2022-11-22 09:19:42,859 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:37.614000 return 0 results
+2022-11-22 09:19:47,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:42.618000 return 0 results
+2022-11-22 09:19:47,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:42.618000 return 0 results
+2022-11-22 09:19:52,771 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:47.613000 return 0 results
+2022-11-22 09:19:52,891 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:47.613000 return 0 results
+2022-11-22 09:19:57,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:52.657000 return 0 results
+2022-11-22 09:19:57,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:52.657000 return 0 results
+2022-11-22 09:20:02,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:19:57.614000 return 0 results
+2022-11-22 09:20:02,842 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:19:57.614000 return 0 results
+2022-11-22 09:20:07,725 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:02.612000 return 0 results
+2022-11-22 09:20:07,840 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:02.612000 return 0 results
+2022-11-22 09:20:12,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:07.611000 return 0 results
+2022-11-22 09:20:12,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:07.611000 return 0 results
+2022-11-22 09:20:17,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:12.615000 return 0 results
+2022-11-22 09:20:17,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:12.615000 return 0 results
+2022-11-22 09:20:22,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:17.613000 return 0 results
+2022-11-22 09:20:22,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:17.613000 return 0 results
+2022-11-22 09:20:27,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:22.614000 return 0 results
+2022-11-22 09:20:27,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:22.614000 return 0 results
+2022-11-22 09:20:32,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:27.616000 return 0 results
+2022-11-22 09:20:32,850 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:27.616000 return 0 results
+2022-11-22 09:20:37,736 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:32.614000 return 0 results
+2022-11-22 09:20:37,855 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:32.614000 return 0 results
+2022-11-22 09:20:42,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:37.612000 return 0 results
+2022-11-22 09:20:42,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:37.612000 return 0 results
+2022-11-22 09:20:47,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:42.615000 return 0 results
+2022-11-22 09:20:47,843 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:42.615000 return 0 results
+2022-11-22 09:20:52,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:47.613000 return 0 results
+2022-11-22 09:20:52,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:47.613000 return 0 results
+2022-11-22 09:20:57,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:52.616000 return 0 results
+2022-11-22 09:20:57,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:52.616000 return 0 results
+2022-11-22 09:21:02,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:20:57.615000 return 0 results
+2022-11-22 09:21:02,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:20:57.615000 return 0 results
+2022-11-22 09:21:07,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:02.614000 return 0 results
+2022-11-22 09:21:07,841 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:02.614000 return 0 results
+2022-11-22 09:21:12,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:07.614000 return 0 results
+2022-11-22 09:21:12,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:07.614000 return 0 results
+2022-11-22 09:21:17,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:12.612000 return 0 results
+2022-11-22 09:21:17,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:12.612000 return 0 results
+2022-11-22 09:21:22,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:17.613000 return 0 results
+2022-11-22 09:21:22,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:17.613000 return 0 results
+2022-11-22 09:21:27,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:22.614000 return 0 results
+2022-11-22 09:21:27,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:22.614000 return 0 results
+2022-11-22 09:21:32,760 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:27.613000 return 0 results
+2022-11-22 09:21:32,900 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:27.613000 return 0 results
+2022-11-22 09:21:37,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:32.614000 return 0 results
+2022-11-22 09:21:37,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:32.614000 return 0 results
+2022-11-22 09:21:42,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:37.613000 return 0 results
+2022-11-22 09:21:42,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:37.613000 return 0 results
+2022-11-22 09:21:47,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:42.613000 return 0 results
+2022-11-22 09:21:47,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:42.613000 return 0 results
+2022-11-22 09:21:52,725 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:47.613000 return 0 results
+2022-11-22 09:21:52,841 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:47.613000 return 0 results
+2022-11-22 09:21:57,746 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:52.612000 return 0 results
+2022-11-22 09:21:57,883 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:52.612000 return 0 results
+2022-11-22 09:22:02,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:21:57.614000 return 0 results
+2022-11-22 09:22:02,852 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:21:57.614000 return 0 results
+2022-11-22 09:22:07,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:02.616000 return 0 results
+2022-11-22 09:22:07,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:02.616000 return 0 results
+2022-11-22 09:22:12,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:07.615000 return 0 results
+2022-11-22 09:22:12,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:07.615000 return 0 results
+2022-11-22 09:22:17,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:12.612000 return 0 results
+2022-11-22 09:22:17,854 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:12.612000 return 0 results
+2022-11-22 09:22:22,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:17.616000 return 0 results
+2022-11-22 09:22:22,843 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:17.616000 return 0 results
+2022-11-22 09:22:27,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:22.613000 return 0 results
+2022-11-22 09:22:27,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:22.613000 return 0 results
+2022-11-22 09:22:32,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:27.616000 return 0 results
+2022-11-22 09:22:32,853 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:27.616000 return 0 results
+2022-11-22 09:22:37,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:32.617000 return 0 results
+2022-11-22 09:22:37,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:32.617000 return 0 results
+2022-11-22 09:22:42,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:37.615000 return 0 results
+2022-11-22 09:22:42,854 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:37.615000 return 0 results
+2022-11-22 09:22:47,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:42.617000 return 0 results
+2022-11-22 09:22:47,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:42.617000 return 0 results
+2022-11-22 09:22:52,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:47.614000 return 0 results
+2022-11-22 09:22:52,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:47.614000 return 0 results
+2022-11-22 09:22:57,941 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:52.617000 return 0 results
+2022-11-22 09:22:58,054 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:52.617000 return 0 results
+2022-11-22 09:23:02,737 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:22:57.614000 return 0 results
+2022-11-22 09:23:02,873 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:22:57.614000 return 0 results
+2022-11-22 09:23:07,737 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:02.612000 return 0 results
+2022-11-22 09:23:07,859 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:02.612000 return 0 results
+2022-11-22 09:23:12,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:07.615000 return 0 results
+2022-11-22 09:23:12,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:07.615000 return 0 results
+2022-11-22 09:23:17,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:12.616000 return 0 results
+2022-11-22 09:23:17,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:12.616000 return 0 results
+2022-11-22 09:23:22,732 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:17.614000 return 0 results
+2022-11-22 09:23:22,856 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:17.614000 return 0 results
+2022-11-22 09:23:27,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:22.615000 return 0 results
+2022-11-22 09:23:27,850 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:22.615000 return 0 results
+2022-11-22 09:23:32,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:27.616000 return 0 results
+2022-11-22 09:23:32,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:27.616000 return 0 results
+2022-11-22 09:23:37,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:32.617000 return 0 results
+2022-11-22 09:23:37,840 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:32.617000 return 0 results
+2022-11-22 09:23:42,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:37.613000 return 0 results
+2022-11-22 09:23:42,869 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:37.613000 return 0 results
+2022-11-22 09:23:47,749 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:42.617000 return 0 results
+2022-11-22 09:23:47,864 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:42.617000 return 0 results
+2022-11-22 09:23:52,732 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:47.623000 return 0 results
+2022-11-22 09:23:52,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:47.623000 return 0 results
+2022-11-22 09:23:57,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:52.617000 return 0 results
+2022-11-22 09:23:57,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:52.617000 return 0 results
+2022-11-22 09:24:02,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:23:57.615000 return 0 results
+2022-11-22 09:24:02,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:23:57.615000 return 0 results
+2022-11-22 09:24:07,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:02.616000 return 0 results
+2022-11-22 09:24:07,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:02.616000 return 0 results
+2022-11-22 09:24:12,739 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:07.614000 return 0 results
+2022-11-22 09:24:12,857 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:07.614000 return 0 results
+2022-11-22 09:24:17,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:12.626000 return 0 results
+2022-11-22 09:24:17,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:12.626000 return 0 results
+2022-11-22 09:24:22,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:17.617000 return 0 results
+2022-11-22 09:24:22,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:17.617000 return 0 results
+2022-11-22 09:24:27,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:22.613000 return 0 results
+2022-11-22 09:24:27,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:22.613000 return 0 results
+2022-11-22 09:24:32,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:27.615000 return 0 results
+2022-11-22 09:24:32,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:27.615000 return 0 results
+2022-11-22 09:24:37,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:32.616000 return 0 results
+2022-11-22 09:24:37,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:32.616000 return 0 results
+2022-11-22 09:24:42,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:37.617000 return 0 results
+2022-11-22 09:24:42,895 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:37.617000 return 0 results
+2022-11-22 09:24:47,746 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:42.617000 return 0 results
+2022-11-22 09:24:47,862 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:42.617000 return 0 results
+2022-11-22 09:24:52,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:47.632000 return 0 results
+2022-11-22 09:24:52,843 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:47.632000 return 0 results
+2022-11-22 09:24:57,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:52.614000 return 0 results
+2022-11-22 09:24:57,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:52.614000 return 0 results
+2022-11-22 09:25:02,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:24:57.614000 return 0 results
+2022-11-22 09:25:02,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:24:57.614000 return 0 results
+2022-11-22 09:25:07,743 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:02.615000 return 0 results
+2022-11-22 09:25:07,864 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:02.615000 return 0 results
+2022-11-22 09:25:12,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:07.623000 return 0 results
+2022-11-22 09:25:12,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:07.623000 return 0 results
+2022-11-22 09:25:17,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:12.616000 return 0 results
+2022-11-22 09:25:17,841 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:12.616000 return 0 results
+2022-11-22 09:25:22,740 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:17.613000 return 0 results
+2022-11-22 09:25:22,956 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:17.613000 return 0 results
+2022-11-22 09:25:27,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:22.618000 return 0 results
+2022-11-22 09:25:27,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:22.618000 return 0 results
+2022-11-22 09:25:32,736 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:27.616000 return 0 results
+2022-11-22 09:25:32,854 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:27.616000 return 0 results
+2022-11-22 09:25:37,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:32.617000 return 0 results
+2022-11-22 09:25:37,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:32.617000 return 0 results
+2022-11-22 09:25:42,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:37.616000 return 0 results
+2022-11-22 09:25:42,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:37.616000 return 0 results
+2022-11-22 09:25:47,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:42.617000 return 0 results
+2022-11-22 09:25:47,852 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:42.617000 return 0 results
+2022-11-22 09:25:52,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:47.615000 return 0 results
+2022-11-22 09:25:52,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:47.615000 return 0 results
+2022-11-22 09:25:57,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:52.616000 return 0 results
+2022-11-22 09:25:57,841 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:52.616000 return 0 results
+2022-11-22 09:26:02,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:25:57.612000 return 0 results
+2022-11-22 09:26:02,850 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:25:57.612000 return 0 results
+2022-11-22 09:26:07,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:02.613000 return 0 results
+2022-11-22 09:26:07,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:02.613000 return 0 results
+2022-11-22 09:26:12,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:07.617000 return 0 results
+2022-11-22 09:26:12,842 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:07.617000 return 0 results
+2022-11-22 09:26:17,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:12.613000 return 0 results
+2022-11-22 09:26:17,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:12.613000 return 0 results
+2022-11-22 09:26:22,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:17.614000 return 0 results
+2022-11-22 09:26:22,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:17.614000 return 0 results
+2022-11-22 09:26:27,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:22.614000 return 0 results
+2022-11-22 09:26:27,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:22.614000 return 0 results
+2022-11-22 09:26:32,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:27.616000 return 0 results
+2022-11-22 09:26:32,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:27.616000 return 0 results
+2022-11-22 09:26:37,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:32.616000 return 0 results
+2022-11-22 09:26:37,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:32.616000 return 0 results
+2022-11-22 09:26:42,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:37.613000 return 0 results
+2022-11-22 09:26:42,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:37.613000 return 0 results
+2022-11-22 09:26:47,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:42.618000 return 0 results
+2022-11-22 09:26:47,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:42.618000 return 0 results
+2022-11-22 09:26:52,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:47.614000 return 0 results
+2022-11-22 09:26:52,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:47.614000 return 0 results
+2022-11-22 09:26:57,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:52.616000 return 0 results
+2022-11-22 09:26:57,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:52.616000 return 0 results
+2022-11-22 09:27:02,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:26:57.613000 return 0 results
+2022-11-22 09:27:03,056 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:26:57.613000 return 0 results
+2022-11-22 09:27:07,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:02.615000 return 0 results
+2022-11-22 09:27:07,856 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:02.615000 return 0 results
+2022-11-22 09:27:12,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:07.614000 return 0 results
+2022-11-22 09:27:12,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:07.614000 return 0 results
+2022-11-22 09:27:17,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:12.616000 return 0 results
+2022-11-22 09:27:17,842 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:12.616000 return 0 results
+2022-11-22 09:27:22,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:17.614000 return 0 results
+2022-11-22 09:27:22,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:17.614000 return 0 results
+2022-11-22 09:27:27,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:22.616000 return 0 results
+2022-11-22 09:27:27,853 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:22.616000 return 0 results
+2022-11-22 09:27:32,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:27.619000 return 0 results
+2022-11-22 09:27:32,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:27.619000 return 0 results
+2022-11-22 09:27:37,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:32.616000 return 0 results
+2022-11-22 09:27:37,843 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:32.616000 return 0 results
+2022-11-22 09:27:42,725 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:37.613000 return 0 results
+2022-11-22 09:27:42,841 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:37.613000 return 0 results
+2022-11-22 09:27:47,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:42.612000 return 0 results
+2022-11-22 09:27:47,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:42.612000 return 0 results
+2022-11-22 09:27:52,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:47.612000 return 0 results
+2022-11-22 09:27:52,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:47.612000 return 0 results
+2022-11-22 09:27:57,987 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:52.616000 return 0 results
+2022-11-22 09:27:58,232 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:52.616000 return 0 results
+2022-11-22 09:28:02,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:27:57.613000 return 0 results
+2022-11-22 09:28:02,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:27:57.613000 return 0 results
+2022-11-22 09:28:07,726 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:02.616000 return 0 results
+2022-11-22 09:28:07,842 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:02.616000 return 0 results
+2022-11-22 09:28:12,732 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:07.612000 return 0 results
+2022-11-22 09:28:12,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:07.612000 return 0 results
+2022-11-22 09:28:17,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:12.616000 return 0 results
+2022-11-22 09:28:17,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:12.616000 return 0 results
+2022-11-22 09:28:22,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:17.618000 return 0 results
+2022-11-22 09:28:22,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:17.618000 return 0 results
+2022-11-22 09:28:27,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:22.616000 return 0 results
+2022-11-22 09:28:27,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:22.616000 return 0 results
+2022-11-22 09:28:32,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:27.615000 return 0 results
+2022-11-22 09:28:32,852 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:27.615000 return 0 results
+2022-11-22 09:28:37,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:32.615000 return 0 results
+2022-11-22 09:28:37,850 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:32.615000 return 0 results
+2022-11-22 09:28:42,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:37.618000 return 0 results
+2022-11-22 09:28:42,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:37.618000 return 0 results
+2022-11-22 09:28:47,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:42.616000 return 0 results
+2022-11-22 09:28:47,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:42.616000 return 0 results
+2022-11-22 09:28:52,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:47.614000 return 0 results
+2022-11-22 09:28:52,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:47.614000 return 0 results
+2022-11-22 09:28:57,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:52.615000 return 0 results
+2022-11-22 09:28:57,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:52.615000 return 0 results
+2022-11-22 09:29:02,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:28:57.618000 return 0 results
+2022-11-22 09:29:02,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:28:57.618000 return 0 results
+2022-11-22 09:29:07,727 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:02.616000 return 0 results
+2022-11-22 09:29:07,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:02.616000 return 0 results
+2022-11-22 09:29:12,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:07.614000 return 0 results
+2022-11-22 09:29:12,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:07.614000 return 0 results
+2022-11-22 09:29:17,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:12.617000 return 0 results
+2022-11-22 09:29:17,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:12.617000 return 0 results
+2022-11-22 09:29:22,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:17.613000 return 0 results
+2022-11-22 09:29:22,844 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:17.613000 return 0 results
+2022-11-22 09:29:27,743 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:22.616000 return 0 results
+2022-11-22 09:29:27,888 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:22.616000 return 0 results
+2022-11-22 09:29:32,738 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:27.613000 return 0 results
+2022-11-22 09:29:32,860 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:27.613000 return 0 results
+2022-11-22 09:29:37,736 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:32.615000 return 0 results
+2022-11-22 09:29:37,858 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:32.615000 return 0 results
+2022-11-22 09:29:42,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:37.615000 return 0 results
+2022-11-22 09:29:42,854 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:37.615000 return 0 results
+2022-11-22 09:29:47,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:42.617000 return 0 results
+2022-11-22 09:29:47,864 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:42.617000 return 0 results
+2022-11-22 09:29:52,742 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:47.615000 return 0 results
+2022-11-22 09:29:52,867 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:47.615000 return 0 results
+2022-11-22 09:29:57,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:52.617000 return 0 results
+2022-11-22 09:29:57,859 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:52.617000 return 0 results
+2022-11-22 09:30:02,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:29:57.616000 return 0 results
+2022-11-22 09:30:02,856 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:29:57.616000 return 0 results
+2022-11-22 09:30:07,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:02.615000 return 0 results
+2022-11-22 09:30:07,852 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:02.615000 return 0 results
+2022-11-22 09:30:12,738 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:07.613000 return 0 results
+2022-11-22 09:30:12,858 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:07.613000 return 0 results
+2022-11-22 09:30:17,737 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:12.614000 return 0 results
+2022-11-22 09:30:17,860 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:12.614000 return 0 results
+2022-11-22 09:30:22,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:17.615000 return 0 results
+2022-11-22 09:30:22,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:17.615000 return 0 results
+2022-11-22 09:30:27,736 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:22.614000 return 0 results
+2022-11-22 09:30:27,863 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:22.614000 return 0 results
+2022-11-22 09:30:32,739 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:27.613000 return 0 results
+2022-11-22 09:30:32,872 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:27.613000 return 0 results
+2022-11-22 09:30:37,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:32.617000 return 0 results
+2022-11-22 09:30:37,891 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:32.617000 return 0 results
+2022-11-22 09:30:42,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:37.617000 return 0 results
+2022-11-22 09:30:42,854 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:37.617000 return 0 results
+2022-11-22 09:30:47,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:42.615000 return 0 results
+2022-11-22 09:30:47,861 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:42.615000 return 0 results
+2022-11-22 09:30:52,747 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:47.616000 return 0 results
+2022-11-22 09:30:52,868 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:47.616000 return 0 results
+2022-11-22 09:30:57,767 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:52.618000 return 0 results
+2022-11-22 09:30:57,891 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:52.618000 return 0 results
+2022-11-22 09:31:02,737 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:30:57.614000 return 0 results
+2022-11-22 09:31:02,858 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:30:57.614000 return 0 results
+2022-11-22 09:31:07,738 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:02.615000 return 0 results
+2022-11-22 09:31:07,867 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:02.615000 return 0 results
+2022-11-22 09:31:12,737 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:07.614000 return 0 results
+2022-11-22 09:31:12,863 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:07.614000 return 0 results
+2022-11-22 09:31:17,751 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:12.616000 return 0 results
+2022-11-22 09:31:17,887 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:12.616000 return 0 results
+2022-11-22 09:31:22,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:17.618000 return 0 results
+2022-11-22 09:31:22,865 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:17.618000 return 0 results
+2022-11-22 09:31:27,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:22.615000 return 0 results
+2022-11-22 09:31:27,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:22.615000 return 0 results
+2022-11-22 09:31:32,742 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:27.615000 return 0 results
+2022-11-22 09:31:32,872 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:27.615000 return 0 results
+2022-11-22 09:31:37,741 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:32.616000 return 0 results
+2022-11-22 09:31:37,872 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:32.616000 return 0 results
+2022-11-22 09:31:42,736 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:37.615000 return 0 results
+2022-11-22 09:31:42,859 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:37.615000 return 0 results
+2022-11-22 09:31:47,734 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:42.614000 return 0 results
+2022-11-22 09:31:47,854 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:42.614000 return 0 results
+2022-11-22 09:31:52,819 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:47.616000 return 0 results
+2022-11-22 09:31:52,938 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:47.616000 return 0 results
+2022-11-22 09:31:57,736 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:52.698000 return 0 results
+2022-11-22 09:31:57,858 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:52.698000 return 0 results
+2022-11-22 09:32:02,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:31:57.618000 return 0 results
+2022-11-22 09:32:02,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:31:57.618000 return 0 results
+2022-11-22 09:32:07,732 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:02.618000 return 0 results
+2022-11-22 09:32:07,853 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:02.618000 return 0 results
+2022-11-22 09:32:12,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:07.617000 return 0 results
+2022-11-22 09:32:12,846 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:07.617000 return 0 results
+2022-11-22 09:32:17,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:12.614000 return 0 results
+2022-11-22 09:32:17,860 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:12.614000 return 0 results
+2022-11-22 09:32:22,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:17.618000 return 0 results
+2022-11-22 09:32:22,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:17.618000 return 0 results
+2022-11-22 09:32:27,730 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:22.618000 return 0 results
+2022-11-22 09:32:27,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:22.618000 return 0 results
+2022-11-22 09:32:32,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:27.616000 return 0 results
+2022-11-22 09:32:32,855 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:27.616000 return 0 results
+2022-11-22 09:32:37,728 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:32.613000 return 0 results
+2022-11-22 09:32:37,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:32.613000 return 0 results
+2022-11-22 09:32:42,732 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:37.612000 return 0 results
+2022-11-22 09:32:42,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:37.612000 return 0 results
+2022-11-22 09:32:47,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:42.617000 return 0 results
+2022-11-22 09:32:47,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:42.617000 return 0 results
+2022-11-22 09:32:52,729 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:47.618000 return 0 results
+2022-11-22 09:32:52,847 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:47.618000 return 0 results
+2022-11-22 09:32:56,288 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-22 09:32:56,288 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:32:57,378 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-22 09:32:57,432 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-22 09:32:57,432 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:32:58,852 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-22 09:32:58,899 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-22 09:33:02,742 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:32:52.614000 return 0 results
+2022-11-22 09:33:02,860 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:32:52.614000 return 0 results
+2022-11-22 09:33:07,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:02.619000 return 0 results
+2022-11-22 09:33:07,850 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:02.619000 return 0 results
+2022-11-22 09:33:12,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:07.616000 return 0 results
+2022-11-22 09:33:12,848 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:07.616000 return 0 results
+2022-11-22 09:33:17,738 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:12.618000 return 0 results
+2022-11-22 09:33:17,856 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:12.618000 return 0 results
+2022-11-22 09:33:22,735 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:17.621000 return 0 results
+2022-11-22 09:33:22,853 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:17.621000 return 0 results
+2022-11-22 09:33:27,732 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:22.619000 return 0 results
+2022-11-22 09:33:27,850 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:22.619000 return 0 results
+2022-11-22 09:33:32,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:27.617000 return 0 results
+2022-11-22 09:33:32,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:27.617000 return 0 results
+2022-11-22 09:33:37,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:32.617000 return 0 results
+2022-11-22 09:33:37,845 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:32.617000 return 0 results
+2022-11-22 09:33:42,765 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:37.617000 return 0 results
+2022-11-22 09:33:42,883 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:37.617000 return 0 results
+2022-11-22 09:33:47,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:42.615000 return 0 results
+2022-11-22 09:33:47,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:42.615000 return 0 results
+2022-11-22 09:33:52,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:47.619000 return 0 results
+2022-11-22 09:33:52,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:47.619000 return 0 results
+2022-11-22 09:33:57,732 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:52.617000 return 0 results
+2022-11-22 09:33:57,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:52.617000 return 0 results
+2022-11-22 09:34:02,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:33:57.618000 return 0 results
+2022-11-22 09:34:02,856 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:33:57.618000 return 0 results
+2022-11-22 09:34:07,731 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:34:02.619000 return 0 results
+2022-11-22 09:34:07,849 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:34:02.619000 return 0 results
+2022-11-22 09:34:12,733 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:34:07.616000 return 0 results
+2022-11-22 09:34:12,851 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:34:07.616000 return 0 results
+2022-11-22 09:37:34,198 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-22 09:37:34,199 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:37:35,712 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-22 09:37:35,766 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-22 09:37:35,766 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:37:37,304 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-22 09:37:37,352 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-22 09:37:49,965 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:34:12.618000 return 0 results
+2022-11-22 09:37:50,084 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:34:12.618000 return 0 results
+2022-11-22 09:37:55,133 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:37:49.831000 return 0 results
+2022-11-22 09:37:55,268 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:37:49.831000 return 0 results
+2022-11-22 09:38:00,451 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:37:54.831000 return 0 results
+2022-11-22 09:38:00,597 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:37:54.831000 return 0 results
+2022-11-22 09:38:05,014 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:37:59.830000 return 0 results
+2022-11-22 09:38:05,130 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:37:59.830000 return 0 results
+2022-11-22 09:38:09,939 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:38:04.825000 return 0 results
+2022-11-22 09:38:10,056 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:38:04.825000 return 0 results
+2022-11-22 09:38:14,964 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:38:09.826000 return 0 results
+2022-11-22 09:38:15,080 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:38:09.826000 return 0 results
+2022-11-22 09:38:19,942 - basicLogger - INFO - Query for tennis lesson bookings after 2022-11-22 09:38:14.850000 return 0 results
+2022-11-22 09:38:20,058 - basicLogger - INFO - Query for tennis court bookings after 2022-11-22 09:38:14.850000 return 0 results
+2022-11-22 10:00:11,857 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-22 10:00:11,858 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 10:00:12,941 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-22 10:00:12,992 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-22 10:00:12,993 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 10:00:14,047 - basicLogger - INFO - Connecting to DB. Hostname:kafka.canadacentral.cloudapp.azure.com, Port:3306
+2022-11-22 10:00:14,094 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0

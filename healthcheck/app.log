@@ -1,0 +1,186 @@
+2022-11-22 10:07:22,523 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:07:30,848 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:07:30'}
+2022-11-22 10:07:32,523 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:07:40,842 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:07:40'}
+2022-11-22 10:07:42,520 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:07:50,828 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:07:50'}
+2022-11-22 10:07:52,523 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:08:00,882 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:08:00'}
+2022-11-22 10:10:29,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:10:37,608 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:10:37'}
+2022-11-22 10:10:39,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:10:47,581 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:10:47'}
+2022-11-22 10:10:49,284 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:10:57,643 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:10:57'}
+2022-11-22 10:10:59,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:11:07,593 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:11:07'}
+2022-11-22 10:11:09,284 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:11:17,583 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:11:17'}
+2022-11-22 10:11:19,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:11:27,593 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:11:27'}
+2022-11-22 10:11:29,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:11:37,572 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:11:37'}
+2022-11-22 10:11:39,284 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:11:47,601 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:11:47'}
+2022-11-22 10:11:49,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:11:57,568 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:11:57'}
+2022-11-22 10:11:59,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:12:07,592 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:12:07'}
+2022-11-22 10:12:09,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:12:17,580 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:12:17'}
+2022-11-22 10:12:19,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:12:27,581 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:12:27'}
+2022-11-22 10:12:29,282 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:12:37,572 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:12:37'}
+2022-11-22 10:12:39,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:12:47,588 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:12:47'}
+2022-11-22 10:12:49,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:12:57,637 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:12:57'}
+2022-11-22 10:12:59,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:13:07,645 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:13:07'}
+2022-11-22 10:13:09,282 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:13:17,569 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:13:17'}
+2022-11-22 10:13:19,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:13:27,646 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:13:27'}
+2022-11-22 10:13:29,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:13:37,579 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:13:37'}
+2022-11-22 10:13:39,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:13:47,594 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:13:47'}
+2022-11-22 10:13:49,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:13:57,573 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:13:57'}
+2022-11-22 10:13:59,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:14:07,594 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:14:07'}
+2022-11-22 10:14:09,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:14:17,573 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:14:17'}
+2022-11-22 10:14:19,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:14:27,594 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:14:27'}
+2022-11-22 10:14:29,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:14:37,579 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:14:37'}
+2022-11-22 10:14:39,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:14:47,623 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:14:47'}
+2022-11-22 10:14:49,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:14:57,582 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:14:57'}
+2022-11-22 10:14:59,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:15:07,598 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:15:07'}
+2022-11-22 10:15:09,284 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:15:17,579 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:15:17'}
+2022-11-22 10:15:19,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:15:27,585 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:15:27'}
+2022-11-22 10:15:29,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:15:38,026 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:15:38'}
+2022-11-22 10:15:39,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:15:47,797 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:15:47'}
+2022-11-22 10:15:49,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:15:57,629 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:15:57'}
+2022-11-22 10:15:59,284 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:16:07,835 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:16:07'}
+2022-11-22 10:16:09,284 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:16:17,678 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:16:17'}
+2022-11-22 10:16:19,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:16:27,825 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:16:27'}
+2022-11-22 10:16:29,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:16:37,583 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:16:37'}
+2022-11-22 10:16:39,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:16:47,620 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:16:47'}
+2022-11-22 10:16:49,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:16:57,568 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:16:57'}
+2022-11-22 10:16:59,284 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:17:07,588 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:17:07'}
+2022-11-22 10:17:09,287 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:17:17,589 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:17:17'}
+2022-11-22 10:17:19,288 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:17:27,662 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:17:27'}
+2022-11-22 10:17:29,290 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:17:37,578 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:17:37'}
+2022-11-22 10:17:39,286 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:17:47,688 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:17:47'}
+2022-11-22 10:17:49,283 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:17:57,583 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:17:57'}
+2022-11-22 10:17:59,287 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:18:07,590 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:18:07'}
+2022-11-22 10:18:09,284 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:18:17,573 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:18:17'}
+2022-11-22 10:18:19,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:18:27,600 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:18:27'}
+2022-11-22 10:18:29,282 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:18:37,575 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:18:37'}
+2022-11-22 10:18:39,282 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:18:47,587 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:18:47'}
+2022-11-22 10:18:49,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:18:57,591 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:18:57'}
+2022-11-22 10:18:59,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:19:07,589 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:19:07'}
+2022-11-22 10:19:09,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:19:17,633 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:19:17'}
+2022-11-22 10:19:19,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:19:27,682 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:19:27'}
+2022-11-22 10:19:29,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:19:37,573 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:19:37'}
+2022-11-22 10:19:39,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:19:47,596 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:19:47'}
+2022-11-22 10:19:49,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:19:57,580 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:19:57'}
+2022-11-22 10:19:59,285 - basicLogger - INFO - Retrieving health stats for receiver, storage, processing and audit services
+2022-11-22 10:20:07,603 - basicLogger - INFO - All health status for all services receiverd 
+Health Status: {'audit': 'Running', 'processing': 'Running', 'storage': 'Down', 'receiver': 'Running', 'Last_update': '11/22/2022, 10:20:07'}

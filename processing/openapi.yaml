@@ -36,7 +36,40 @@ paths:
                 properties:
                   message:
                     type: string
-              
+  /health:
+    get:
+      tags:
+        - health check
+      summary: gets new health check reading
+      operationId: app.health
+      description: Gets health check reading 
+      parameters: 
+        - name: health 
+          in: query
+          description: Limits the number of items on a page
+          schema: 
+            type: integer
+            example: 200
+       
+            
+      responses:
+        '200':
+          description: Successfully returned a health check event
+          content: 
+            application/json:
+              schema:
+                type: integer
+                items:
+                  $ref: '#/components/schemas/health'
+        '400':
+          description: Invalid request 
+          content:
+            application/json:
+              schema:
+                type: object 
+                properties:
+                  message:
+                    type: string           
 
 components:
   schemas:
@@ -62,3 +95,11 @@ components:
       type: object
         
   
+    health:
+      type: object
+      required: 
+        - health
+      properties:
+        health:
+          type: integer
+          example: 200

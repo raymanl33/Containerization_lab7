@@ -1,0 +1,927 @@
+2022-11-21 18:31:53,645 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-21 18:31:53,645 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:16:07,424 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:16:07,424 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:16:07,488 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:16:07,488 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:16:11,481 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:16:11,481 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:16:11,526 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:16:11,526 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:16:12,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:17,613 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:17,873 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:17,877 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:17,879 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:16:22,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:22,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:22,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:22,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:16:27,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:27,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:27,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:27,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:16:32,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:32,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:32,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:32,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:16:37,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:37,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:37,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:37,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:16:42,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:42,917 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:42,919 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:42,921 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:16:47,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:47,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:47,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:47,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:16:52,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:52,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:52,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:52,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:16:57,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:16:57,854 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:16:57,856 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:16:57,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:02,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:02,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:02,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:02,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:07,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:07,866 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:07,868 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:07,870 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:12,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:12,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:12,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:12,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:17,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:17,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:17,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:17,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:22,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:22,845 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:22,847 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:22,849 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:27,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:27,873 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:27,875 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:27,877 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:32,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:32,857 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:32,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:32,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:37,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:37,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:37,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:37,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:42,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:42,845 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:42,847 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:42,849 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:47,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:47,877 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:47,879 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:47,881 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:52,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:52,854 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:52,856 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:52,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:17:57,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:17:57,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:17:57,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:17:57,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:02,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:02,845 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:02,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:02,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:07,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:07,857 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:07,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:07,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:12,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:12,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:12,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:12,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:17,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:17,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:17,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:17,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:22,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:22,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:22,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:22,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:27,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:27,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:27,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:27,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:32,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:32,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:32,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:32,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:37,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:37,854 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:37,857 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:37,859 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:42,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:42,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:42,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:42,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:47,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:47,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:47,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:47,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:52,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:52,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:52,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:52,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:18:57,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:18:57,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:18:57,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:18:57,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:02,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:02,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:02,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:02,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:07,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:07,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:07,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:07,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:12,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:12,861 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:12,864 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:12,866 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:17,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:17,844 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:17,845 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:17,848 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:22,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:22,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:22,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:22,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:27,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:27,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:27,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:27,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:32,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:32,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:32,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:32,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:37,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:37,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:37,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:37,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:42,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:42,862 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:42,864 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:42,867 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:47,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:47,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:47,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:47,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:52,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:52,893 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:52,895 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:52,897 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:19:57,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:19:57,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:19:57,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:19:57,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:02,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:02,843 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:02,845 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:02,847 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:07,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:07,842 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:07,844 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:07,846 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:12,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:12,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:12,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:12,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:17,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:17,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:17,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:17,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:22,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:22,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:22,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:22,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:27,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:27,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:27,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:27,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:32,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:32,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:32,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:32,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:37,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:37,857 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:37,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:37,861 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:42,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:42,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:42,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:42,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:47,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:47,845 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:47,847 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:47,849 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:52,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:52,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:52,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:52,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:20:57,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:20:57,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:20:57,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:20:57,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:02,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:02,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:02,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:02,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:07,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:07,843 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:07,845 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:07,847 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:12,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:12,854 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:12,856 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:12,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:17,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:17,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:17,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:17,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:22,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:22,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:22,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:22,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:27,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:27,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:27,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:27,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:32,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:32,902 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:32,904 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:32,907 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:37,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:37,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:37,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:37,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:42,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:42,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:42,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:42,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:47,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:47,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:47,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:47,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:52,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:52,843 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:52,845 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:52,848 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:21:57,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:21:57,885 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:21:57,887 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:21:57,889 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:02,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:02,854 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:02,856 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:02,860 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:07,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:07,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:07,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:07,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:12,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:12,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:12,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:12,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:17,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:17,856 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:17,858 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:17,861 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:22,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:22,845 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:22,847 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:22,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:27,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:27,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:27,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:27,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:32,613 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:32,855 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:32,857 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:32,860 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:37,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:37,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:37,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:37,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:42,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:42,856 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:42,858 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:42,861 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:47,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:47,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:47,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:47,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:52,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:52,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:52,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:52,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:22:57,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:22:58,056 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:22:58,058 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:22:58,060 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:02,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:02,874 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:02,877 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:02,879 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:07,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:07,861 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:07,863 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:07,866 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:12,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:12,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:12,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:12,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:17,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:17,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:17,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:17,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:22,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:22,858 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:22,860 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:22,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:27,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:27,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:27,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:27,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:32,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:32,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:32,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:32,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:37,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:37,841 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:37,843 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:37,846 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:42,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:42,876 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:42,880 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:42,883 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:47,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:47,866 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:47,868 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:47,870 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:52,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:52,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:52,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:52,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:23:57,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:23:57,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:23:57,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:23:57,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:02,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:02,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:02,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:02,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:07,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:07,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:07,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:07,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:12,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:12,859 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:12,862 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:12,864 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:17,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:17,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:17,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:17,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:22,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:22,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:22,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:22,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:27,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:27,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:27,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:27,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:32,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:32,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:32,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:32,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:37,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:37,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:37,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:37,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:42,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:42,897 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:42,899 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:42,902 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:47,624 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:47,864 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:47,866 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:47,868 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:52,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:52,845 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:52,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:52,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:24:57,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:24:57,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:24:57,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:24:57,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:02,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:02,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:02,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:02,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:07,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:07,866 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:07,869 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:07,871 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:12,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:12,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:12,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:12,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:17,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:17,843 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:17,845 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:17,848 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:22,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:22,959 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:22,964 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:22,967 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:27,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:27,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:27,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:27,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:32,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:32,856 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:32,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:32,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:37,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:37,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:37,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:37,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:42,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:42,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:42,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:42,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:47,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:47,855 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:47,857 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:47,859 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:52,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:52,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:52,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:52,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:25:57,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:25:57,844 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:25:57,846 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:25:57,848 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:02,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:02,856 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:02,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:02,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:07,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:07,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:07,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:07,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:12,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:12,844 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:12,846 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:12,849 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:17,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:17,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:17,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:17,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:22,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:22,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:22,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:22,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:27,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:27,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:27,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:27,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:32,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:32,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:32,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:32,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:37,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:37,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:37,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:37,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:42,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:42,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:42,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:42,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:47,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:47,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:47,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:47,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:52,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:52,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:52,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:52,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:26:57,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:26:57,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:26:57,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:26:57,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:02,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:03,058 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:03,060 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:03,062 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:07,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:07,857 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:07,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:07,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:12,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:12,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:12,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:12,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:17,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:17,844 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:17,846 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:17,848 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:22,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:22,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:22,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:22,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:27,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:27,855 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:27,857 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:27,861 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:32,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:32,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:32,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:32,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:37,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:37,845 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:37,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:37,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:42,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:42,844 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:42,846 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:42,848 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:47,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:47,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:47,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:47,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:52,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:52,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:52,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:52,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:27:57,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:27:58,234 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:27:58,236 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:27:58,238 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:02,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:02,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:02,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:02,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:07,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:07,844 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:07,846 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:07,848 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:12,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:12,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:12,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:12,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:17,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:17,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:17,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:17,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:22,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:22,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:22,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:22,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:27,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:27,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:27,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:27,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:32,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:32,854 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:32,857 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:32,859 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:37,613 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:37,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:37,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:37,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:42,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:42,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:42,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:42,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:47,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:47,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:47,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:47,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:52,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:52,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:52,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:52,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:28:57,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:28:57,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:28:57,856 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:28:57,859 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:02,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:02,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:02,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:02,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:07,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:07,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:07,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:07,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:12,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:12,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:12,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:12,852 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:17,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:17,846 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:17,848 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:17,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:22,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:22,845 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:22,847 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:22,850 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:27,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:27,890 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:27,893 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:27,895 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:32,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:32,862 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:32,864 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:32,867 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:37,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:37,860 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:37,862 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:37,865 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:42,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:42,857 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:42,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:42,861 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:47,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:47,866 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:47,869 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:47,872 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:52,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:52,869 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:52,871 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:52,874 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:29:57,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:29:57,860 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:29:57,862 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:29:57,865 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:02,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:02,858 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:02,860 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:02,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:07,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:07,854 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:07,856 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:07,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:12,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:12,860 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:12,863 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:12,865 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:17,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:17,862 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:17,864 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:17,866 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:22,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:22,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:22,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:22,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:27,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:27,865 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:27,868 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:27,870 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:32,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:32,874 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:32,876 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:32,879 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:37,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:37,894 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:37,896 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:37,898 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:42,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:42,856 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:42,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:42,861 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:47,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:47,863 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:47,866 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:47,868 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:52,613 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:52,870 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:52,872 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:52,875 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:30:57,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:30:57,893 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:30:57,895 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:30:57,897 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:02,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:02,861 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:02,863 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:02,865 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:07,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:07,869 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:07,871 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:07,874 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:12,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:12,865 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:12,867 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:12,870 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:17,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:17,889 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:17,891 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:17,893 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:22,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:22,867 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:22,869 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:22,872 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:27,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:27,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:27,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:27,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:32,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:32,875 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:32,878 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:32,882 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:37,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:37,874 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:37,876 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:37,879 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:42,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:42,861 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:42,863 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:42,866 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:47,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:47,857 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:47,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:47,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:52,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:52,940 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:52,942 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:52,944 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:31:57,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:31:57,860 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:31:57,862 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:31:57,865 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:02,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:02,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:02,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:02,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:07,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:07,854 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:07,857 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:07,859 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:12,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:12,848 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:12,850 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:12,853 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:17,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:17,862 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:17,864 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:17,867 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:22,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:22,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:22,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:22,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:27,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:27,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:27,851 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:27,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:32,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:32,857 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:32,859 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:32,862 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:37,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:37,857 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:37,865 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:37,870 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:42,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:42,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:42,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:42,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:47,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:47,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:47,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:47,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:52,609 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:32:52,849 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:32:52,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:32:52,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:32:57,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:02,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:02,861 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:02,864 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:02,866 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:07,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:07,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:07,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:07,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:12,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:12,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:12,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:12,855 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:17,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:17,860 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:17,863 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:17,865 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:22,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:22,855 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:22,858 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:22,861 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:27,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:27,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:27,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:27,858 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:32,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:32,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:32,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:32,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:37,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:37,847 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:37,849 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:37,851 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:42,608 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:42,885 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:42,888 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:42,891 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:47,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:47,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:47,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:47,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:52,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:52,850 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:52,852 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:52,854 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:33:57,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:33:57,852 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:33:57,854 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:33:57,857 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:34:02,612 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:34:02,858 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:34:02,861 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:34:02,863 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:34:07,610 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:34:07,851 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:34:07,853 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:34:07,856 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:34:12,611 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:34:12,853 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:34:12,855 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:34:12,859 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:34:31,982 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:34:31,982 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:34:32,040 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:34:32,040 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:35:44,530 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:35:44,530 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:35:44,578 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:35:44,578 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:35:49,695 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:35:54,695 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:37:44,656 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:37:44,657 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:37:44,710 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:37:44,710 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:37:49,821 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:37:50,086 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:37:50,090 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:37:50,095 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:37:54,823 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:37:55,270 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:37:55,272 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:37:55,275 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:37:59,823 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:38:00,599 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:38:00,601 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:38:00,603 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:38:04,818 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:38:05,133 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:38:05,135 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:38:05,138 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:38:09,819 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:38:10,058 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:38:10,060 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:38:10,063 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:38:14,822 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:38:15,083 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:38:15,085 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:38:15,088 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:38:19,821 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 09:38:20,060 - basicLogger - INFO - 2 number of events received
+2022-11-22 09:38:20,063 - basicLogger - DEBUG - Updated statitics values num_courts_bookings: 0, max_num_court_bookings: 100, num_lessons_bookings: 0, max_lessons_bookings: 100
+2022-11-22 09:38:20,066 - basicLogger - INFO - Period processing has ended
+2022-11-22 09:59:50,269 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:59:50,270 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:59:50,430 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:59:50,431 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:59:55,602 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 10:00:00,603 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 10:00:05,597 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 10:00:10,600 - basicLogger - INFO - Start Periodic Processing
+2022-11-22 10:00:15,858 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 10:00:15,858 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 10:00:15,906 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 10:00:15,907 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 10:00:21,040 - basicLogger - INFO - Start Periodic Processing

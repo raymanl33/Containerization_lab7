@@ -1,0 +1,8 @@
+2022-11-22 09:38:09,171 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:38:09,172 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:38:09,172 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0
+2022-11-22 09:38:09,528 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-11-22 09:38:09,528 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-11-22 09:38:09,528 - basicLogger - INFO - Trying to connect to Kafka
+  Current retry count: 0

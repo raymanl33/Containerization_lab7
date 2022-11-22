@@ -55,6 +55,11 @@ Base.metadata.create_all(DB_ENGINE)
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
 logger.info(f"Connecting to DB. Hostname:{hostname}, Port:{port}")
+
+def health():
+  """ get the status of the  """
+  return 200
+  
 def get_court_bookings(timestamp, end_timestamp):
   """ Gets new tennis court bookings after the timestamp """
 
