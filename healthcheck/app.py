@@ -8,6 +8,7 @@ import logging
 import logging.config
 import json
 import os
+from flask_cors import CORS, cross_origin
 
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
   print("In Test Environment")
@@ -34,10 +35,7 @@ logger.info("Log Conf File: %s" % log_conf_file)
 
 def get_health_stats():
     health = {'audit': 'Down', 'processing': 'Down', 'storage': 'Down', 'receiver': 'Down', 'Last_update': datetime.datetime.now().strftime("%m/%d/%Y, %H:%M:%S")}
-    # health_check_storage = requests.get(f"http://kafka.canadacentral.cloudapp.azure.com:8090/health")
-    # health_check_receiver = requests.get(f"http://kafka.canadacentral.cloudapp.azure.com:8080/health")
-    # health_check_processing = requests.get(f"http://kafka.canadacentral.cloudapp.azure.com:8100/health")
-    # health_check_audit = requests.get(f"http://kafka.canadacentral.cloudapp.azure.com:9080/health")
+
     logger.info("Retrieving health stats for receiver, storage, processing and audit services")
     try:
         health_check_storage = requests.get(app_config['datastore']['storage']['url'], timeout=5)
@@ -90,7 +88,8 @@ app.add_api("openapi.yaml",
                  strict_validation=True,
                 validate_responses=True)
 
-
+CORS(app.app)
+app.app.config["CORS_HEADERS"] = "Content-Type"
 
 if __name__ == "__main__":
     init_scheduler()
